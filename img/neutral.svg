@@ -1,0 +1,8 @@
+<svg viewBox="0 0 200 200" width="400"  height="400" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" fill="ivory" r="78" stroke="black" stroke-width="3"/>
+  <g class="eyes">
+    <circle cx="62" cy="80" r="10"/>
+    <circle cx="132" cy="80" r="10"/>
+  </g>
+   <line x1="142" y1="130" x2="55" y2="130" style="stroke:black;stroke-width:3.5" />
+</svg>

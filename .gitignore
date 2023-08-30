@@ -12,3 +12,15 @@ docs/
 
 # Dotenv file
 .env
+broadcast/
+
+# Misc
+metadata/
+assets/
+Makefile
+
+# Test file
+DeployMoodDynamicNFTTest.t.sol
+
+# Backup
+MoodDynamicNFT_backup.sol.bak

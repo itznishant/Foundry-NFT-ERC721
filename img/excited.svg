@@ -1,0 +1,13 @@
+<svg viewBox="0 0 200 200" width="400"  height="400" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" fill="yellow" r="78" stroke="black" stroke-width="3"/>
+  <g class="eyes">
+    <polygon points="50,0 21,90 98,35 2,35 79,90"
+    style="fill:darkorange;stroke-width:1;fill-rule:nonzero"
+    transform="translate(19,20) scale(0.8)" />
+    <polygon points="50,0 21,90 98,35 2,35 79,90"
+    style="fill:darkorange;stroke-width:1;fill-rule:nonzero"
+    transform="translate(101,20) scale(0.8)" />
+  </g>
+   <line x1="139" y1="115" x2="53.5" y2="115" style="stroke:black;stroke-width:3.5" />
+  <path d="m136.81 116.53c.69 26.17-64.11 42-81.52-.73" style="fill:red; stroke: black; stroke-width: 4;"/>
+</svg>
